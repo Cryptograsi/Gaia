@@ -44,7 +44,7 @@ At the end you will get an output like this
 
 We are going to [This](https://gaianet.ai/reward?invite_code=Rr1PJc) address and connect to the site with a burner wallet
 
-[Bu](https://gaianet.ai/reward?invite_code=Rr1PJc) gidelim ve burner bir cüzdanla bağlanalım
+[Buraya](https://gaianet.ai/reward?invite_code=Rr1PJc) gidelim ve burner bir cüzdanla bağlanalım
 
 
 If the invite asks for a code, enter Rr1PJc
